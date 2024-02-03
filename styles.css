@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap
+}
+.block{
+	width:200px;
+	height:200px;
+	margin:10px;
+}
+.div1{
+	background-color:rgb(0,0,255);
+}
+.div2{
+	background-color:rgb(255,0,0);
+}
